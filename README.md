@@ -1,5 +1,5 @@
 Hi, I'm 3xion, but you can call me Nolan. I'm currently in 8th grade and practicing software and website development. I'm also an artist and electronics hobbyist.
-Contact me at: https://replit.com/3xion
+Contact me at: https://replit.com/@3xion
 exiondevelopment@outlook.com
 (no phone number 4 u)
 
@@ -9,3 +9,5 @@ exiondevelopment@outlook.com
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
