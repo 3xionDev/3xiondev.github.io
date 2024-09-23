@@ -1,4 +1,4 @@
-Hi, I'm 3xion, but you can call me Nolan. I'm currently in 8th grade and practicing software and website development. I'm also an artist and electronics hobbyist.
+Hi, I'm 3xion, but you can call me Nolan. I'm currently in freshman year and practicing software and website development. I'm also an artist and electronics hobbyist.
 Contact me at: https://replit.com/@3xion
 exiondevelopment@outlook.com
 (no phone number 4 u)
