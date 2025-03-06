@@ -1,9 +1,9 @@
 function ngu() {
-  window.open("https://3xiondev.github.io/n-gon-upgraded/", "_self");
+  window.open("https://3xion.tech/n-gon-upgraded/", "_self");
 }
 
 function collatz() {
-  window.open("https://3xiondev.github.io/collatz/", "_self");
+  window.open("https://3xion.tech/collatz/", "_self");
 }
 
 function ndocs() {
