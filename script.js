@@ -1,9 +1,9 @@
 function ngu() {
-  window.open("https://3xion.tech/n-gon-upgraded/", "_self");
+  window.open("https://3xiondev.github.io/n-gon-upgraded/", "_self");
 }
 
 function collatz() {
-  window.open("https://3xion.tech/collatz/", "_self");
+  window.open("https://3xiondev.github.io/collatz/", "_self");
 }
 
 function ndocs() {
@@ -59,13 +59,3 @@ document.addEventListener("DOMContentLoaded", function() {
     cursor2.style.height = 15 + "px";
   })
   })
-
-if (navigator.userAgent.match(/Android/i)
-         || navigator.userAgent.match(/webOS/i)
-         || navigator.userAgent.match(/iPhone/i)
-         || navigator.userAgent.match(/iPad/i)
-         || navigator.userAgent.match(/iPod/i)
-         || navigator.userAgent.match(/BlackBerry/i)
-         || navigator.userAgent.match(/Windows Phone/i)) {
-          window.open("mobile.html", "_self");
-}
